@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SecretXat</string>
+ <!--main -->
+    <string name="bien_venido_a_secretxat">Bienvenido a SecretXat</string>
+    <string name="subtitle">El mejor chat de la historia</string>
+    <string name="nickname">Pon aqui tu nickname</string>
+
+    <!--chat -->
+    <string name="start">Xat!!</string>
+    <string name="enviar">Enviar</string>
+    <string name="escrive_un_missatge">Escrive un missatge</string>
+</resources>
